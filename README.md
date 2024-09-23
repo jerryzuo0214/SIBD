@@ -1,5 +1,7 @@
-# SIBD: Spatial Inflammatory Boundary Detect
-<img src="https://github.com/jerryzuo0214/SIBD/blob/master/Icon_SIBD.png" width="300" align="right"/>
+# SIBD: Spatial Inflammatory Boundary Detect     <img src="https://github.com/jerryzuo0214/SIBD/blob/master/Icon_SIBD.png" width="300" align='right'>
+
+    
+
 
 ## Installation
 
