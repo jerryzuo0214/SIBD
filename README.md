@@ -1,6 +1,8 @@
 # SIBD: Spatial Inflammatory Boundary Detect     
 
-<img src="https://github.com/jerryzuo0214/SIBD/blob/master/Icon_SIBD.png" width="300">
+<img src="https://github.com/jerryzuo0214/SIBD/blob/master/Icon_SIBD.png" width="300" align="right"/>
+
+`SIBD` contains several useful functions to help construct inflammatory boundary based on the pre-built inflammatory gene set or gene set provided by users. 
 
 ## Installation
 
