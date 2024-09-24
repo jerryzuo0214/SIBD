@@ -1,0 +1,33 @@
+{
+  "R": {
+    "Version": "4.3.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://mirrors.tuna.tsinghua.edu.cn/CRAN"
+      }
+    ]
+  },
+  "Packages": {
+    "jsonlite": {
+      "Package": "jsonlite",
+      "Version": "1.8.9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "methods"
+      ],
+      "Hash": "4e993b65c2c3ffbffce7bb3e2c6f832b"
+    },
+    "renv": {
+      "Package": "renv",
+      "Version": "1.0.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "utils"
+      ],
+      "Hash": "32c3f93e8360f667ca5863272ec8ba6a"
+    }
+  }
+}
