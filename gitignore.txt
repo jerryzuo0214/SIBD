@@ -1,6 +1,0 @@
-inst/doc
-doc
-Meta
-.Rproj.user
-/doc/
-/Meta/
