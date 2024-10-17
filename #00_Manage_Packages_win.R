@@ -32,10 +32,11 @@ remotes::install_cran("qs", type = "source", configure.args = "--with-simd=AVX2"
 
 install.packages(c('ggcorrplot','ggthemes','readr','phylogram','dendextend','assertthat','magrittr'))
 BiocManager::install("rtracklayer")
+BiocManager::install("openxlsx")
 
 
 # Save the state of environment
-renv::snapshot(project = "./renv_win",type = "all")
+renv::snapshot(project = "../renv_win",type = "all")
 
 # Restore the environment. When migration occurred, this should be executed
 renv::restore(project = "../renv_win")
